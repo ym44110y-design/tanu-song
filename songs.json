@@ -6,7 +6,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "うすらひ",
@@ -15,7 +16,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "9月",
@@ -24,7 +26,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "ジャンクショップ",
@@ -33,7 +36,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "ハニーマスタードねじりパン",
@@ -42,7 +46,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "ホワイトディスク",
@@ -51,7 +56,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "約束",
@@ -60,7 +66,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "弱すぎる君",
@@ -69,7 +76,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "みないで",
@@ -78,7 +86,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "流星群",
@@ -87,7 +96,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "ローコード",
@@ -96,7 +106,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "笑って",
@@ -105,7 +116,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "杯を交わそう",
@@ -114,7 +126,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "ロマンネコ",
@@ -123,7 +136,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "強すぎるお布施",
@@ -132,7 +146,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "アンスロ帰還音楽",
@@ -141,7 +156,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "世界の片隅で同じ夢を",
@@ -150,7 +166,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "きみがいること",
@@ -159,7 +176,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "タビビトノキ",
@@ -168,7 +186,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "宝箱が溢れた日",
@@ -177,7 +196,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "頼れない月",
@@ -186,7 +206,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "Story",
@@ -196,6 +217,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -206,6 +230,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -216,6 +243,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -226,6 +256,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -236,6 +269,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -245,6 +281,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -254,6 +293,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -264,6 +306,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -274,6 +319,9 @@
     "categories": [
       "J-POP",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -285,6 +333,11 @@
       "J-POP",
       "ロック",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "🎭 憑依型歌唱",
+      "🔥 感情爆発"
     ]
   },
   {
@@ -296,6 +349,11 @@
       "J-POP",
       "ロック",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気",
+      "🎭 憑依型歌唱",
+      "🔥 感情爆発"
     ]
   },
   {
@@ -306,6 +364,11 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気",
+      "🎭 憑依型歌唱",
+      "🔥 感情爆発"
     ]
   },
   {
@@ -317,6 +380,11 @@
       "J-POP",
       "ロック",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "🎭 憑依型歌唱",
+      "🔥 感情爆発"
     ]
   },
   {
@@ -327,6 +395,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -338,6 +409,9 @@
       "J-POP",
       "バラード",
       "アイドル"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -348,6 +422,9 @@
     "categories": [
       "J-POP",
       "アイドル"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -359,6 +436,9 @@
       "J-POP",
       "バラード",
       "アイドル"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -368,6 +448,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -378,6 +461,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -388,6 +474,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -398,6 +487,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -408,6 +500,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -417,6 +512,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -427,6 +525,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -436,6 +537,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -446,6 +550,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -456,6 +563,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -466,6 +576,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -478,6 +591,9 @@
       "バラード",
       "ジブリ",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -489,6 +605,9 @@
       "J-POP",
       "バラード",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -498,6 +617,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -509,6 +631,9 @@
       "J-POP",
       "バラード",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -519,6 +644,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -529,6 +657,9 @@
     "categories": [
       "J-POP",
       "アイドル"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -538,6 +669,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -548,6 +682,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -558,6 +695,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -567,6 +707,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -578,6 +721,9 @@
       "J-POP",
       "アニソン",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -587,6 +733,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -596,6 +745,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -606,6 +758,9 @@
     "categories": [
       "J-POP",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -616,6 +771,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -626,6 +784,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -637,6 +798,9 @@
       "J-POP",
       "バラード",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -648,6 +812,10 @@
       "J-POP",
       "バラード",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感",
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -659,6 +827,9 @@
       "J-POP",
       "アニソン",
       "ジブリ"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -670,6 +841,9 @@
       "J-POP",
       "アニソン",
       "ジブリ"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -681,6 +855,9 @@
       "J-POP",
       "アニソン",
       "ジブリ"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -691,6 +868,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -703,6 +883,9 @@
       "アニソン",
       "昭和・懐メロ",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -713,6 +896,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -723,6 +909,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -733,6 +922,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -743,6 +935,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -753,6 +948,9 @@
     "categories": [
       "J-POP",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -762,6 +960,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -771,6 +972,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -781,6 +985,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -791,6 +998,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -801,6 +1011,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -811,6 +1024,9 @@
     "categories": [
       "洋楽",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -821,6 +1037,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -831,6 +1050,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -841,6 +1063,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -852,6 +1077,10 @@
       "J-POP",
       "ロック",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "🔥 感情爆発"
     ]
   },
   {
@@ -861,6 +1090,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -871,6 +1103,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -880,6 +1115,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -890,6 +1128,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -899,6 +1140,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -908,6 +1152,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -917,6 +1164,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -926,6 +1176,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -935,6 +1188,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -945,6 +1201,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -957,6 +1216,11 @@
       "ロック",
       "アニソン",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "🎭 憑依型歌唱",
+      "🔥 感情爆発"
     ]
   },
   {
@@ -966,6 +1230,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -975,6 +1242,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -984,6 +1254,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -994,6 +1267,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -1004,6 +1280,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -1014,6 +1293,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -1024,6 +1306,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -1033,6 +1318,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -1042,6 +1330,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -1052,6 +1343,9 @@
     "categories": [
       "J-POP",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -1062,6 +1356,9 @@
     "categories": [
       "J-POP",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -1071,6 +1368,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1080,6 +1380,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1090,6 +1393,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1099,6 +1405,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1109,6 +1418,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1118,6 +1430,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1127,6 +1442,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1137,6 +1455,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1146,6 +1467,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1156,6 +1480,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1165,6 +1492,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1175,6 +1505,9 @@
     "categories": [
       "演歌・歌謡曲",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -1184,6 +1517,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -1195,6 +1531,9 @@
       "J-POP",
       "バラード",
       "ジブリ"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1204,6 +1543,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1214,6 +1556,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1224,6 +1569,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1234,6 +1582,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1245,6 +1596,9 @@
       "J-POP",
       "ロック",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -1255,6 +1609,10 @@
     "categories": [
       "J-POP",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声",
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -1265,6 +1623,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -1274,6 +1635,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -1284,6 +1648,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1293,6 +1660,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🔥 感情爆発"
     ]
   },
   {
@@ -1302,6 +1672,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🔥 感情爆発"
     ]
   },
   {
@@ -1311,6 +1684,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -1320,6 +1696,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1330,6 +1709,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1340,6 +1722,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1350,6 +1735,9 @@
     "categories": [
       "J-POP",
       "アイドル"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -1360,6 +1748,9 @@
     "categories": [
       "J-POP",
       "アイドル"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -1369,6 +1760,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -1379,6 +1773,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1390,6 +1787,9 @@
       "J-POP",
       "バラード",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -1400,6 +1800,9 @@
     "categories": [
       "J-POP",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -1409,6 +1812,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1419,6 +1825,9 @@
     "categories": [
       "J-POP",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -1429,6 +1838,9 @@
     "categories": [
       "J-POP",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -1439,6 +1851,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🔥 感情爆発"
     ]
   },
   {
@@ -1449,6 +1864,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -1459,6 +1877,9 @@
     "categories": [
       "J-POP",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1469,6 +1890,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1480,6 +1904,9 @@
       "J-POP",
       "バラード",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1490,6 +1917,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1500,6 +1930,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1509,6 +1942,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1518,6 +1954,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1527,6 +1966,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1538,6 +1980,9 @@
       "J-POP",
       "バラード",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1547,6 +1992,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -1556,6 +2004,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -1565,6 +2016,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -1574,6 +2028,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🔥 感情爆発"
     ]
   },
   {
@@ -1585,6 +2042,11 @@
       "J-POP",
       "バラード",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動",
+      "🎭 憑依型歌唱",
+      "🔥 感情爆発"
     ]
   },
   {
@@ -1594,6 +2056,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -1604,6 +2069,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1614,6 +2082,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1623,6 +2094,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -1633,6 +2107,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -1643,6 +2120,9 @@
     "categories": [
       "J-POP",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -1653,6 +2133,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1663,6 +2146,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1673,6 +2159,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -1685,6 +2174,10 @@
       "ロック",
       "アニソン",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -1695,6 +2188,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -1705,6 +2201,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -1715,6 +2214,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -1725,6 +2227,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -1736,6 +2241,9 @@
       "J-POP",
       "ロック",
       "バラード"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -1747,6 +2255,9 @@
       "J-POP",
       "ロック",
       "バラード"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -1758,6 +2269,9 @@
       "J-POP",
       "ロック",
       "バラード"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -1768,6 +2282,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -1778,6 +2295,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -1789,6 +2309,9 @@
       "J-POP",
       "バラード",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1799,6 +2322,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -1810,6 +2336,9 @@
       "J-POP",
       "バラード",
       "アイドル"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1819,6 +2348,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -1828,6 +2360,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1837,6 +2372,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1846,6 +2384,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1856,6 +2397,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1866,6 +2410,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1876,6 +2423,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1886,6 +2436,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1896,6 +2449,9 @@
     "categories": [
       "洋楽",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1905,6 +2461,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1914,6 +2473,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -1924,6 +2486,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -1935,6 +2500,10 @@
       "J-POP",
       "アニソン",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -1946,6 +2515,10 @@
       "J-POP",
       "アニソン",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -1956,6 +2529,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1967,6 +2543,9 @@
       "J-POP",
       "バラード",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -1977,6 +2556,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -1988,6 +2570,10 @@
       "J-POP",
       "アニソン",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -1999,6 +2585,10 @@
       "J-POP",
       "アニソン",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声",
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -2008,6 +2598,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -2018,6 +2611,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -2028,6 +2624,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2037,6 +2636,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -2047,6 +2649,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2058,6 +2663,9 @@
       "J-POP",
       "バラード",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -2068,6 +2676,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "🔥 感情爆発"
     ]
   },
   {
@@ -2078,6 +2689,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2088,6 +2702,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2098,6 +2715,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2108,6 +2728,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2119,6 +2742,9 @@
       "J-POP",
       "ロック",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2130,6 +2756,9 @@
       "J-POP",
       "ロック",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -2141,6 +2770,9 @@
       "J-POP",
       "ロック",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -2152,6 +2784,10 @@
       "J-POP",
       "ロック",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気",
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -2162,6 +2798,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2173,6 +2812,11 @@
       "J-POP",
       "ロック",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "🎭 憑依型歌唱",
+      "🔥 感情爆発"
     ]
   },
   {
@@ -2184,6 +2828,9 @@
       "J-POP",
       "ロック",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2194,6 +2841,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -2204,6 +2854,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2213,6 +2866,10 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動",
+      "🔥 感情爆発"
     ]
   },
   {
@@ -2222,6 +2879,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -2232,6 +2892,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2242,6 +2905,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2252,6 +2918,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2264,6 +2933,9 @@
       "バラード",
       "昭和・懐メロ",
       "アイドル"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -2275,6 +2947,10 @@
       "J-POP",
       "バラード",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感",
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2285,6 +2961,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2295,6 +2974,9 @@
     "categories": [
       "J-POP",
       "アイドル"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -2305,6 +2987,9 @@
     "categories": [
       "J-POP",
       "アイドル"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -2316,6 +3001,9 @@
       "J-POP",
       "ロック",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -2325,6 +3013,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -2334,6 +3025,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -2344,6 +3038,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2354,6 +3051,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2365,6 +3065,10 @@
       "J-POP",
       "アニソン",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -2375,6 +3079,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2385,6 +3092,9 @@
     "categories": [
       "J-POP",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -2394,6 +3104,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -2404,6 +3117,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -2414,6 +3130,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -2424,6 +3143,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -2433,6 +3155,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -2443,6 +3168,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2452,6 +3180,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2462,6 +3193,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -2472,6 +3206,9 @@
     "categories": [
       "洋楽",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2483,6 +3220,10 @@
       "J-POP",
       "アニソン",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声",
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -2495,6 +3236,9 @@
       "アニソン",
       "アイドル",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -2504,6 +3248,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -2513,6 +3260,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -2523,6 +3273,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -2533,6 +3286,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -2543,6 +3299,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -2552,6 +3311,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -2562,6 +3324,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2572,6 +3337,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -2581,6 +3349,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -2591,6 +3362,10 @@
     "categories": [
       "J-POP",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -2600,6 +3375,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -2610,6 +3388,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2620,6 +3401,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2631,6 +3415,9 @@
       "J-POP",
       "ロック",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2641,6 +3428,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -2652,6 +3442,9 @@
       "J-POP",
       "アニソン",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -2663,6 +3456,9 @@
       "J-POP",
       "ロック",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -2673,6 +3469,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2683,6 +3482,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2693,6 +3495,9 @@
     "categories": [
       "J-POP",
       "アイドル"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -2704,6 +3509,9 @@
       "J-POP",
       "アニソン",
       "ジブリ"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -2714,6 +3522,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2723,6 +3534,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -2733,6 +3547,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2743,6 +3560,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -2752,6 +3572,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2762,6 +3585,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2772,6 +3598,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2784,6 +3613,9 @@
       "バラード",
       "昭和・懐メロ",
       "アイドル"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -2796,6 +3628,9 @@
       "バラード",
       "昭和・懐メロ",
       "アイドル"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -2807,6 +3642,9 @@
       "J-POP",
       "昭和・懐メロ",
       "アイドル"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -2819,6 +3657,9 @@
       "バラード",
       "昭和・懐メロ",
       "アイドル"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -2830,6 +3671,9 @@
       "J-POP",
       "アニソン",
       "ジブリ"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -2841,6 +3685,9 @@
       "J-POP",
       "アニソン",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -2851,6 +3698,9 @@
     "categories": [
       "J-POP",
       "アイドル"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -2860,6 +3710,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -2869,6 +3722,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -2879,6 +3735,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2889,6 +3748,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2898,6 +3760,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2908,6 +3773,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2918,6 +3786,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2927,6 +3798,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2937,6 +3811,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2947,6 +3824,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -2957,6 +3837,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🔥 感情爆発"
     ]
   },
   {
@@ -2966,6 +3849,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -2976,6 +3862,9 @@
     "categories": [
       "J-POP",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -2985,6 +3874,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -2996,6 +3888,10 @@
       "J-POP",
       "アニソン",
       "ジブリ"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感",
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -3007,6 +3903,10 @@
       "J-POP",
       "ロック",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -3017,6 +3917,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -3026,6 +3929,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -3036,6 +3942,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -3046,6 +3955,9 @@
     "categories": [
       "J-POP",
       "昭和・懐メロ"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -3055,6 +3967,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -3065,6 +3980,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -3074,6 +3992,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -3083,6 +4004,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -3092,6 +4016,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -3102,6 +4029,10 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -3111,6 +4042,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -3121,6 +4055,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -3131,6 +4068,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -3141,6 +4081,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -3151,6 +4094,9 @@
     "categories": [
       "J-POP",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -3160,6 +4106,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -3169,6 +4118,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -3180,6 +4132,10 @@
       "J-POP",
       "アニソン",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声",
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -3189,6 +4145,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -3198,6 +4157,10 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声",
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -3207,6 +4170,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -3216,6 +4182,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -3228,6 +4197,10 @@
       "ロック",
       "アニソン",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -3237,6 +4210,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -3246,6 +4222,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -3257,6 +4236,9 @@
       "J-POP",
       "バラード",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -3266,6 +4248,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -3275,6 +4260,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -3284,6 +4272,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -3294,6 +4285,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -3304,6 +4298,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -3314,6 +4311,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "🔥 感情爆発"
     ]
   },
   {
@@ -3323,6 +4323,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -3333,6 +4336,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -3342,6 +4348,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -3351,6 +4360,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "💕 可愛い歌声"
     ]
   },
   {
@@ -3360,6 +4372,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🌸 癒やし・透明感"
     ]
   },
   {
@@ -3370,6 +4385,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "🔥 感情爆発"
     ]
   },
   {
@@ -3380,6 +4398,9 @@
     "categories": [
       "J-POP",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -3391,6 +4412,10 @@
       "J-POP",
       "バラード",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動",
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -3402,6 +4427,11 @@
       "J-POP",
       "バラード",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動",
+      "🎭 憑依型歌唱",
+      "🔥 感情爆発"
     ]
   },
   {
@@ -3414,6 +4444,10 @@
       "ロック",
       "アニソン",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -3424,6 +4458,9 @@
     "categories": [
       "J-POP",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -3434,6 +4471,9 @@
     "categories": [
       "J-POP",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -3444,6 +4484,9 @@
     "categories": [
       "J-POP",
       "盛り上がる曲"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -3453,6 +4496,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -3462,6 +4508,9 @@
     "genre": "",
     "categories": [
       "J-POP"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -3472,6 +4521,10 @@
     "categories": [
       "J-POP",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "🔥 感情爆発"
     ]
   },
   {
@@ -3482,6 +4535,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🌙 大人・色気"
     ]
   },
   {
@@ -3492,6 +4548,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -3502,6 +4561,9 @@
     "categories": [
       "J-POP",
       "ロック"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -3512,6 +4574,9 @@
     "categories": [
       "J-POP",
       "バラード"
+    ],
+    "voiceCategories": [
+      "🥹 泣ける・感動"
     ]
   },
   {
@@ -3523,6 +4588,9 @@
       "J-POP",
       "ロック",
       "バラード"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱"
     ]
   },
   {
@@ -3534,6 +4602,10 @@
       "J-POP",
       "ロック",
       "アニソン"
+    ],
+    "voiceCategories": [
+      "⚡ パワフル歌唱",
+      "🎭 憑依型歌唱"
     ]
   },
   {
@@ -3543,7 +4615,8 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   },
   {
     "title": "結い",
@@ -3552,6 +4625,7 @@
     "genre": "オリジナル",
     "categories": [
       "オリジナル"
-    ]
+    ],
+    "voiceCategories": []
   }
 ]
